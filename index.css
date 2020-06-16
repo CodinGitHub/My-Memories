@@ -1,0 +1,11 @@
+h1 span {
+    color: red;
+}
+
+h1 #azul{
+    color: blue;
+}
+
+h1 .verde {
+    color: green;
+}
