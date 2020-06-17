@@ -1,11 +1,4 @@
-h1 span {
-    color: red;
-}
+body{
 
-h1 #azul{
-    color: blue;
-}
-
-h1 .verde {
-    color: green;
+    background-image: radial-gradient( red, yellow);
 }
